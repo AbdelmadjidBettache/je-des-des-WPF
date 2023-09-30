@@ -1,0 +1,69 @@
+C:\Users\elisa\Documents\VS\repos\ExamCSharpIntra_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\bin\Debug\App1_Guichet.exe.config
+C:\Users\elisa\Documents\VS\repos\ExamCSharpIntra_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\bin\Debug\App1_Guichet.exe
+C:\Users\elisa\Documents\VS\repos\ExamCSharpIntra_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\bin\Debug\App1_Guichet.pdb
+C:\Users\elisa\Documents\VS\repos\ExamCSharpIntra_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\obj\Debug\MainWindow.g.cs
+C:\Users\elisa\Documents\VS\repos\ExamCSharpIntra_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\obj\Debug\App.g.cs
+C:\Users\elisa\Documents\VS\repos\ExamCSharpIntra_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\obj\Debug\App1_Guichet_MarkupCompile.cache
+C:\Users\elisa\Documents\VS\repos\ExamCSharpIntra_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\obj\Debug\App1_Guichet_MarkupCompile.lref
+C:\Users\elisa\Documents\VS\repos\ExamCSharpIntra_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\obj\Debug\MainWindow.baml
+C:\Users\elisa\Documents\VS\repos\ExamCSharpIntra_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\obj\Debug\App1_Guichet.g.resources
+C:\Users\elisa\Documents\VS\repos\ExamCSharpIntra_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\obj\Debug\App1_Guichet.Properties.Resources.resources
+C:\Users\elisa\Documents\VS\repos\ExamCSharpIntra_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\obj\Debug\App1_Guichet.csproj.GenerateResource.cache
+C:\Users\elisa\Documents\VS\repos\ExamCSharpIntra_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\obj\Debug\App1_Guichet.csproj.CoreCompileInputs.cache
+C:\Users\elisa\Documents\VS\repos\ExamCSharpIntra_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\obj\Debug\App1_Guichet.exe
+C:\Users\elisa\Documents\VS\repos\ExamCSharpIntra_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\obj\Debug\App1_Guichet.pdb
+C:\Users\toufi\Desktop\examB05\ExamIntra_ETremblay_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\bin\Debug\App1_Guichet.exe.config
+C:\Users\toufi\Desktop\examB05\ExamIntra_ETremblay_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\bin\Debug\App1_Guichet.exe
+C:\Users\toufi\Desktop\examB05\ExamIntra_ETremblay_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\bin\Debug\App1_Guichet.pdb
+C:\Users\toufi\Desktop\examB05\ExamIntra_ETremblay_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\obj\Debug\App1_Guichet.csproj.AssemblyReference.cache
+C:\Users\toufi\Desktop\examB05\ExamIntra_ETremblay_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\obj\Debug\App1_Guichet.csproj.SuggestedBindingRedirects.cache
+C:\Users\toufi\Desktop\examB05\ExamIntra_ETremblay_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\obj\Debug\MainWindow.g.cs
+C:\Users\toufi\Desktop\examB05\ExamIntra_ETremblay_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\obj\Debug\App.g.cs
+C:\Users\toufi\Desktop\examB05\ExamIntra_ETremblay_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\obj\Debug\App1_Guichet_MarkupCompile.cache
+C:\Users\toufi\Desktop\examB05\ExamIntra_ETremblay_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\obj\Debug\App1_Guichet_MarkupCompile.lref
+C:\Users\toufi\Desktop\examB05\ExamIntra_ETremblay_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\obj\Debug\MainWindow.baml
+C:\Users\toufi\Desktop\examB05\ExamIntra_ETremblay_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\obj\Debug\App1_Guichet.g.resources
+C:\Users\toufi\Desktop\examB05\ExamIntra_ETremblay_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\obj\Debug\App1_Guichet.Properties.Resources.resources
+C:\Users\toufi\Desktop\examB05\ExamIntra_ETremblay_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\obj\Debug\App1_Guichet.csproj.GenerateResource.cache
+C:\Users\toufi\Desktop\examB05\ExamIntra_ETremblay_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\obj\Debug\App1_Guichet.csproj.CoreCompileInputs.cache
+C:\Users\toufi\Desktop\examB05\ExamIntra_ETremblay_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\obj\Debug\App1_Guichet.exe
+C:\Users\toufi\Desktop\examB05\ExamIntra_ETremblay_0144773\ExamIntra_ETremblay_0144773\App1_Guichet\obj\Debug\App1_Guichet.pdb
+C:\Users\tbellal\Desktop\FC\420-B05-RO\Examens\CorrigeV3\App1_Guichet\bin\Debug\App1_Guichet.exe.config
+C:\Users\tbellal\Desktop\FC\420-B05-RO\Examens\CorrigeV3\App1_Guichet\bin\Debug\App1_Guichet.exe
+C:\Users\tbellal\Desktop\FC\420-B05-RO\Examens\CorrigeV3\App1_Guichet\bin\Debug\App1_Guichet.pdb
+C:\Users\tbellal\Desktop\FC\420-B05-RO\Examens\CorrigeV3\App1_Guichet\obj\Debug\App1_Guichet.csproj.AssemblyReference.cache
+C:\Users\tbellal\Desktop\FC\420-B05-RO\Examens\CorrigeV3\App1_Guichet\obj\Debug\App1_Guichet.csproj.SuggestedBindingRedirects.cache
+C:\Users\tbellal\Desktop\FC\420-B05-RO\Examens\CorrigeV3\App1_Guichet\obj\Debug\MainWindow.g.cs
+C:\Users\tbellal\Desktop\FC\420-B05-RO\Examens\CorrigeV3\App1_Guichet\obj\Debug\App.g.cs
+C:\Users\tbellal\Desktop\FC\420-B05-RO\Examens\CorrigeV3\App1_Guichet\obj\Debug\App1_Guichet_MarkupCompile.cache
+C:\Users\tbellal\Desktop\FC\420-B05-RO\Examens\CorrigeV3\App1_Guichet\obj\Debug\App1_Guichet_MarkupCompile.lref
+C:\Users\tbellal\Desktop\FC\420-B05-RO\Examens\CorrigeV3\App1_Guichet\obj\Debug\MainWindow.baml
+C:\Users\tbellal\Desktop\FC\420-B05-RO\Examens\CorrigeV3\App1_Guichet\obj\Debug\App1_Guichet.g.resources
+C:\Users\tbellal\Desktop\FC\420-B05-RO\Examens\CorrigeV3\App1_Guichet\obj\Debug\App1_Guichet.Properties.Resources.resources
+C:\Users\tbellal\Desktop\FC\420-B05-RO\Examens\CorrigeV3\App1_Guichet\obj\Debug\App1_Guichet.csproj.GenerateResource.cache
+C:\Users\tbellal\Desktop\FC\420-B05-RO\Examens\CorrigeV3\App1_Guichet\obj\Debug\App1_Guichet.csproj.CoreCompileInputs.cache
+C:\Users\tbellal\Desktop\FC\420-B05-RO\Examens\CorrigeV3\App1_Guichet\obj\Debug\App1_Guichet.exe
+C:\Users\tbellal\Desktop\FC\420-B05-RO\Examens\CorrigeV3\App1_Guichet\obj\Debug\App1_Guichet.pdb
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\CorrigeFormatif\App1_Guichet\bin\Debug\App1_Guichet.exe.config
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\CorrigeFormatif\App1_Guichet\bin\Debug\App1_Guichet.exe
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\CorrigeFormatif\App1_Guichet\bin\Debug\App1_Guichet.pdb
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\CorrigeFormatif\App1_Guichet\obj\Debug\App1_Guichet.csproj.AssemblyReference.cache
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\CorrigeFormatif\App1_Guichet\obj\Debug\MainWindow.g.cs
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\CorrigeFormatif\App1_Guichet\obj\Debug\App.g.cs
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\CorrigeFormatif\App1_Guichet\obj\Debug\App1_Guichet_MarkupCompile.cache
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\CorrigeFormatif\App1_Guichet\obj\Debug\App1_Guichet_MarkupCompile.lref
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\CorrigeFormatif\App1_Guichet\obj\Debug\MainWindow.baml
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\CorrigeFormatif\App1_Guichet\obj\Debug\App1_Guichet.g.resources
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\CorrigeFormatif\App1_Guichet\obj\Debug\App1_Guichet.Properties.Resources.resources
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\CorrigeFormatif\App1_Guichet\obj\Debug\App1_Guichet.csproj.GenerateResource.cache
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\CorrigeFormatif\App1_Guichet\obj\Debug\App1_Guichet.csproj.CoreCompileInputs.cache
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\CorrigeFormatif\App1_Guichet\obj\Debug\App1_Guichet.exe
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\CorrigeFormatif\App1_Guichet\obj\Debug\App1_Guichet.pdb
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\CorrigeFormatif\App1_Guichet\obj\Debug\App1_Guichet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 4\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\CorrigeFormatif\App1_Guichet\obj\Debug\App1_Guichet.csproj.AssemblyReference.cache
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 4\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\CorrigeFormatif\App1_Guichet\obj\Debug\MainWindow.g.cs
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 4\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\CorrigeFormatif\App1_Guichet\obj\Debug\App.g.cs
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 4\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\CorrigeFormatif\App1_Guichet\obj\Debug\App1_Guichet_MarkupCompile.cache
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 4\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\CorrigeFormatif\App1_Guichet\obj\Debug\App1_Guichet_MarkupCompile.lref
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 4\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\CorrigeFormatif\App1_Guichet\obj\Debug\App1_Guichet.exe
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 4\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\CorrigeFormatif\App1_Guichet\obj\Debug\App1_Guichet.pdb

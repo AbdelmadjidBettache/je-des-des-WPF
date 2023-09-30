@@ -1,0 +1,28 @@
+﻿<Window x:Name="winJeuDes" x:Class="App2_JeuDes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:App2_JeuDes"
+        mc:Ignorable="d"
+        Title="Jeu de dés" Height="450" Width="623" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Icon="images/icons8_dice.ico" FontFamily="Century Gothic" FontSize="16">
+	<Grid x:Name="grdJeuDes" Background="#FFFFD1D1">
+
+		<Label x:Name="lblTitreJeuDeDes" Content="Jeu de dés" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Margin="0,26,0,0" VerticalAlignment="Top" Foreground="#FF1337DA" FontWeight="Bold" FontSize="18" Width="200" Height="34"/>
+		<Grid x:Name="grdAfficheDes" HorizontalAlignment="Center" Height="155" Margin="0,75,0,0" VerticalAlignment="Top" Width="550" Background="White">
+			<Image x:Name="imgDe1" HorizontalAlignment="Left" Height="100" Margin="60,30,0,0" VerticalAlignment="Top" Width="100" Source="images/accueil.jpg"/>
+			<Image x:Name="imgDe2" HorizontalAlignment="Center" Height="100" Margin="0,30,0,0" VerticalAlignment="Top" Width="100" Source="images/accueil.jpg"/>
+			<Image x:Name="imgDe3" HorizontalAlignment="Right" Height="100" Margin="0,30,60,0" VerticalAlignment="Top" Width="100" Source="images/accueil.jpg"/>
+		</Grid>
+		<Button x:Name="btnJouer" Content="Jouer à nouveau" HorizontalAlignment="Left" Margin="90,347,0,0" VerticalAlignment="Top" Width="205" Height="30" Click="btnJouer_Click" FontWeight="Bold" Background="#FFF55E5E"/>
+		<Button x:Name="btnReset" Content="Réinitialiser le pointage" HorizontalAlignment="Right" Margin="0,347,90,0" VerticalAlignment="Top" Width="205" Height="30" Click="btnReset_Click" FontWeight="Bold" Background="#FFF55E5E"/>
+		<Label x:Name="lblPointage" Content="Pointage :" HorizontalAlignment="Left" Margin="87,257,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="14"/>
+		<TextBox x:Name="txtPointage" Text="0" HorizontalAlignment="Left" Height="23" Margin="162,259,0,0" TextWrapping="Wrap" IsReadOnly="True" VerticalAlignment="Top" Width="80" BorderThickness="0" VerticalContentAlignment="Center" Foreground="#FF1537CF" FontWeight="Bold" FontSize="16" Background="#FFFFD1D1"/>
+		<Label x:Name="lblBonus" Content="Bonus :" HorizontalAlignment="Left" Margin="247,257,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="14"/>
+		<TextBox x:Name="txtBonus" Text="0" HorizontalAlignment="Left" Height="23" Margin="307,259,0,0" TextWrapping="Wrap" IsReadOnly="True" VerticalAlignment="Top" Width="80" BorderThickness="0" VerticalContentAlignment="Center" Foreground="#FF1537CF" FontWeight="Bold" FontSize="16" Background="#FFFFD1D1"/>
+		<Label x:Name="lblTotalPoints" Content="Total des points :" HorizontalAlignment="Left" Margin="383,257,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="14"/>
+		<TextBox x:Name="txtTotalPoints" Text="0" HorizontalAlignment="Left" Height="23" Margin="511,259,0,0" TextWrapping="Wrap" IsReadOnly="True" VerticalAlignment="Top" Width="80" BorderThickness="0" VerticalContentAlignment="Center" Foreground="#FF1537CF" FontWeight="Bold" FontSize="16" Background="#FFFFD1D1"/>
+		<Label x:Name="lblCumulatif" Content="Cumulatif des points :" HorizontalAlignment="Left" Margin="190,308,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="14"/>
+		<TextBox x:Name="txtCumulatif" Text="0" HorizontalAlignment="Left" Height="23" Margin="346,310,0,0" TextWrapping="Wrap" IsReadOnly="True" VerticalAlignment="Top" Width="80" BorderThickness="0" VerticalContentAlignment="Center" Foreground="#FF1537CF" FontWeight="Bold" FontSize="16" Background="#FFFFD1D1"/>
+	</Grid>
+</Window>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App2_JeuDes", "App2_JeuDes\App2_JeuDes.csproj", "{A5674056-B46C-4699-992D-7B3519307343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1_Guichet", "App1_Guichet\App1_Guichet.csproj", "{E4279B22-6B4B-426F-A6EE-E0BDD7AA836A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5674056-B46C-4699-992D-7B3519307343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5674056-B46C-4699-992D-7B3519307343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5674056-B46C-4699-992D-7B3519307343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5674056-B46C-4699-992D-7B3519307343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4279B22-6B4B-426F-A6EE-E0BDD7AA836A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4279B22-6B4B-426F-A6EE-E0BDD7AA836A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4279B22-6B4B-426F-A6EE-E0BDD7AA836A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4279B22-6B4B-426F-A6EE-E0BDD7AA836A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B577B234-77CE-4D0C-B9DA-08791A33C83B}
+	EndGlobalSection
+EndGlobal
